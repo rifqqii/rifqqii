@@ -1,10 +1,7 @@
-### Rifqi Ramadhan
-![Rifqi Ramadhan](img/download.png)
- Saya Pelajar yang Sedang fokus mendalami web development dan meningkatkan kemampuan membangun aplikasi 
 
-🌱 Currently Learning
+![Rifqi Ramadhan](img/github-header-banner.png)
+ >Saya Pelajar yang Sedang fokus mendalami web development dan meningkatkan kemampuan membangun aplikasi 
 
-Laravel Framework
 
 🛠 Tech Stack
 <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,php,javascript,mysql,laravel" /> </p>
@@ -18,3 +15,5 @@ Laravel Framework
 📫 Reach Me
 
 Instagram: coming soon
+##### My Github Stats
+![Rifqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rifqqii&show_icons=true&theme=transparent)
