@@ -1,16 +1,20 @@
-## Hi there 👋
+### Rifqi Ramadhan
+![Rifqi Ramadhan](img/download.png)
+ Saya Pelajar yang Sedang fokus mendalami web development dan meningkatkan kemampuan membangun aplikasi 
 
-<!--
-**rifqqii/rifqqii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Currently Learning
 
-Here are some ideas to get you started:
+Laravel Framework
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tech Stack
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,php,javascript,mysql,laravel" /> </p>
+
+🚀 Featured Projects
+
+🔗 Project 1 — coming soon
+
+🔗 Project 2 — coming soon
+
+📫 Reach Me
+
+Instagram: coming soon
